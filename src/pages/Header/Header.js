@@ -6,6 +6,10 @@ import { Link } from 'react-router-dom';
 
 
 const Header = () => {
+
+ 
+
+  
     return (
         <div className=" ">
         <div className="row bg-dark ">
@@ -25,9 +29,7 @@ const Header = () => {
              <div className=" mt-5">
              <h1>Indian Rasturent</h1>
              <br />
-             <div>
-                 <input className="btn-in fs-6" type="text" name="" id="" placeholder="Search food" /><input type="submit" value="Search" className="btn-submit" />
-             </div>
+             
              </div>
              
            </div>
