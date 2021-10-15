@@ -18,6 +18,8 @@ const Header = () => {
            </div>
            <div className="col-md-6 d-flex justify-content-end">
            <Link id="hedlink"className="text-light fs-4 me-2 " to="/home">Home</Link>
+
+           
            
            <Link id="hedlink"className="text-light fs-4 me-2 " to="/login">Login</Link>
            <Link id="hedlink"className="text-light fs-4 me-2 " to="/details">Details</Link>
@@ -31,8 +33,11 @@ const Header = () => {
              <br />
              
              </div>
-             
+            
            </div>
+           <Link id="hedlink"className=" fs-2 me-2 " to="/Brackfirst">Brackfirst</Link>
+           <Link id="hedlink"className=" fs-2 me-2 " to="/lunch">Lunch</Link>
+           <Link id="hedlink"className=" fs-2 me-2 " to="/dinner">Dennar</Link>
         </div>
     );
 };

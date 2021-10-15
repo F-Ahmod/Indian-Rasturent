@@ -19,6 +19,7 @@ const Food = ({food}) => {
             <h3>{name}</h3>
             <p>{discription}</p>
             <button onClick={()=> handelSeeDetails(`details/${id}`)} type="button" className="btn btn-success btn-lg">See Details</button>
+            
         </div>
     );
 };

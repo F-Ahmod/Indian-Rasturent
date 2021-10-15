@@ -1,36 +1,42 @@
 [
 	{
 		"id": 1,
+		"price":12,
 		"img": "https://i.ibb.co/mzSPTWZ/chef-cook-food-33614.png",
 		"name": "europen food",
 		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
 	},
 	{
 		"id": 2,
+		"price":12,
 		"img": "https://image.shutterstock.com/image-photo/chef-sprinkling-spices-on-dish-600w-399217051.jpg",
 		"name": "Amarican food",
 		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
 	},
 	{
 		"id": 3,
+		"price":12,
 		"img": "https://st.focusedcollection.com/18590116/i/650/focused_224831862-stock-photo-head-chef-inspecting-dessert-plates.jpg",
 		"name": "African food",
 		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
 	},
 	{
 		"id": 4,
+		"price":12,
 		"img": "https://previews.123rf.com/images/bowie15/bowie150910/bowie15091000112/5721850-young-cook-in-a-kitchen-of-a-restaurant.jpg",
 		"name": "indian food",
 		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
 	},
 	{
 		"id": 5,
+		"price":12,
 		"img": "https://media.sciencephoto.com/image/f0177229/800wm/F0177229-Chef_in_a_restaurant_kitchen_plating_food.jpg",
 		"name": "Chines",
 		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
 	},
 	{
 		"id": 6,
+		"price":12,
 		"img": "https://www.ecpi.edu/sites/default/files/CIV%20July%2018.png",
 		"name": "singapuren food",
 		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
