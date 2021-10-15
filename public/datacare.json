@@ -1,45 +1,97 @@
 [
+
 	{
 		"id": 1,
 		"price":12,
-		"img": "https://i.ibb.co/mzSPTWZ/chef-cook-food-33614.png",
-		"name": "europen food",
+		"img": "https://i.ibb.co/Q63qJ73/images-19.jpg",
+		"name": "SasHimi Sushi",
 		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
 	},
 	{
 		"id": 2,
-		"price":12,
-		"img": "https://image.shutterstock.com/image-photo/chef-sprinkling-spices-on-dish-600w-399217051.jpg",
-		"name": "Amarican food",
+		"price":31,
+		"img": "https://i.ibb.co/5YBw6t8/images-18.jpg",
+		"name": "nigire Sushi",
 		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
 	},
 	{
 		"id": 3,
-		"price":12,
-		"img": "https://st.focusedcollection.com/18590116/i/650/focused_224831862-stock-photo-head-chef-inspecting-dessert-plates.jpg",
-		"name": "African food",
+		"price":29,
+		"img": "https://i.ibb.co/71hB8f5/images-17.jpg",
+		"name": "Gurunavi Sushi",
 		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
 	},
 	{
 		"id": 4,
-		"price":12,
-		"img": "https://previews.123rf.com/images/bowie15/bowie150910/bowie15091000112/5721850-young-cook-in-a-kitchen-of-a-restaurant.jpg",
-		"name": "indian food",
+		"price":18,
+		"img": "https://i.ibb.co/G3GHHrr/images-16.jpg",
+		"name": "Isolated Sushi",
 		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
 	},
 	{
 		"id": 5,
-		"price":12,
-		"img": "https://media.sciencephoto.com/image/f0177229/800wm/F0177229-Chef_in_a_restaurant_kitchen_plating_food.jpg",
-		"name": "Chines",
+		"price":68,
+		"img": "https://i.ibb.co/TbBqBcj/images-15.jpg",
+		"name": "Minori Sushi",
 		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
 	},
 	{
 		"id": 6,
-		"price":12,
-		"img": "https://www.ecpi.edu/sites/default/files/CIV%20July%2018.png",
-		"name": "singapuren food",
+		"price":52,
+		"img": "https://i.ibb.co/VjFg0YG/images-14.jpg",
+		"name": "Has Sushi",
+		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
+	},
+
+
+	
+	
+	
+	
+	
+	
+	{
+		"id": 7,
+		"price":52,
+		"img": "https://i.ibb.co/NSg4Yvf/images-12.jpg",
+		"name": "assorted Japanis Sushi",
+		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
+	},
+	{
+		"id": 8,
+		"price":52,
+		"img": "https://i.ibb.co/3vyQxPx/images-11.jpg",
+		"name": "Salmon Sushi",
+		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
+	},
+	{
+		"id": 9,
+		"price":52,
+		"img": "https://i.ibb.co/N3SXc7w/images-10.jpg",
+		"name": "ToriKunce Sushi",
+		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
+	},
+	{
+		"id": 10,
+		"price":52,
+		"img": "https://i.ibb.co/gDjPWXW/images-9.jpg",
+		"name": "Torimki Sushi",
+		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
+	},
+	{
+		"id": 11,
+		"price":52,
+		"img": "https://i.ibb.co/VB00G0Z/images-2.jpg",
+		"name": "Sushi Roll",
+		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
+	},
+	{
+		"id": 12,
+		"price":52,
+		"img": "https://i.ibb.co/8g5RSJk/images-8.jpg",
+		"name": "Tasty food Sushi  ",
 		"discription": "Food using wheat as its main ingredient, such as noodles and dumplings is prevalent there. China's Southern cuisine uses far more rice, "
 	}
+
 	
 ]

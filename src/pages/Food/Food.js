@@ -16,9 +16,9 @@ const Food = ({food}) => {
         <div className="food-container">
            
             <img style={{height:"350px",width:"300px"}} src={img} alt="" srcset=""/>
-            <h3>{name}</h3>
+            <h3 className="text-success">{name}</h3>
             <p>{discription}</p>
-            <button onClick={()=> handelSeeDetails(`details/${id}`)} type="button" className="btn btn-success btn-lg">See Details</button>
+            <button  onClick={()=> handelSeeDetails(`details/${id}`)} type="button" className="btn btn-success btn-lg mb-3">See Details</button>
             
         </div>
     );

@@ -4,6 +4,7 @@
     grid-gap: 12px;
     justify-content: center;
     margin-left: 40px;
+    padding-bottom: 12px;
 }
 @media only screen and (max-width:688px) {
     .container{

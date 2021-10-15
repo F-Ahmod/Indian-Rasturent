@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import './Dinner.css'
 import Fulldinner from './../../Fulldinner/Fulldinner';
 
 
