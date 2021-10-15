@@ -14,7 +14,7 @@ const Dinner = () => {
     },[])
 
     return (
-        <div className="brackFirst-container mt-5">
+        <div className="container mt-5">
           
 
            {
