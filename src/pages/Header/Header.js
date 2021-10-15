@@ -29,15 +29,17 @@ const Header = () => {
 
            <div className="banner mt-5  d-flex justify-content-center align-items-center">
              <div className=" mt-5">
-             <h1>Indian Rasturent</h1>
+             <h1 className="fs-1" style={{color:'greenYellow',}}>Restaurant <span style={{color:'goldenrod'}}>Bangla</span></h1>
              <br />
              
              </div>
             
            </div>
-           <Link id="hedlink"className=" fs-2 me-2 " to="/Brackfirst">Brackfirst</Link>
-           <Link id="hedlink"className=" fs-2 me-2 " to="/lunch">Lunch</Link>
-           <Link id="hedlink"className=" fs-2 me-2 " to="/dinner">Dennar</Link>
+           <div className="bg-dark">
+           <Link id="hedlink"className=" fs-2 me-2 text-light me-5 " to="/Brackfirst">Brackfirst</Link>
+           <Link id="hedlink"className=" fs-2 me-2 text-light me-5" to="/lunch">Lunch</Link>
+           <Link id="hedlink"className=" fs-2 me-2 text-light " to="/dinner">Dennar</Link>
+           </div>
         </div>
     );
 };
