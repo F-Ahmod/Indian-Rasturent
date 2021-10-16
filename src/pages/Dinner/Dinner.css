@@ -1,4 +1,4 @@
-.brackFirst-container{
+.container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-gap: 12px;
@@ -12,4 +12,11 @@
     .brackFirst-container{
         grid-template-columns: repeat(2, 1fr);
     }
+}
+
+body{
+    overflow-x: hidden;
+}
+html{
+    overflow-x: hidden;
 }

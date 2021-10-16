@@ -1,14 +1,16 @@
 .food-container{ 
   
-    background-color:whitesmoke;
-    border-radius: 2px;
-    width: 300px;
-    
-
+  background-color:whitesmoke;
+  border-radius: 2px;
+  width: 300px;
 }
 
-@media only screen and (max-width: 600px) {
-    body {
-      background-color: lightblue;
-    }
+.food-container:hover{
+  box-shadow: 0 .5rem 1rem rgb(190, 189, 189);
+  border-radius: 10px;
+  transition: 0.2s;
+  }
+  #See-details{
+    background-color:rgba(226, 211, 192, 0.712);
+    border: none;
   }

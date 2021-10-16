@@ -13,14 +13,16 @@ const Food = ({food}) => {
     }
    
     return (
+
         <div className="food-container">
            
-            <img style={{height:"350px",width:"300px"}} src={img} alt="" srcset=""/>
-            <h3 className="text-success">{name}</h3>
-            <p>{discription}</p>
-            <button  onClick={()=> handelSeeDetails(`details/${id}`)} type="button" className="btn btn-success btn-lg mb-3">See Details</button>
+           <img className="rounded-circle" style={{height:"190px",width:"190px"}} src={img} alt="" srcset=""/>
+            <h3 className="text-warning">{name}</h3>
+            <p className="p-2">{discription}</p>
+            <button  onClick={()=> handelSeeDetails(`details/${id}`)} type="button" id="See-details" className="btn-lg mb-3">See Details</button>
             
         </div>
+        
     );
 };
 

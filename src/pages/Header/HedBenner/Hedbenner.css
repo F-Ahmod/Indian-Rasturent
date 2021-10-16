@@ -1,0 +1,11 @@
+.banner{
+    background: url("../../../image/bannerbackground.png");
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+   
+}
+.banner h1{
+    justify-content: center;
+    align-items: center;
+}

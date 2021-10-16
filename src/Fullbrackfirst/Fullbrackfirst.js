@@ -7,10 +7,10 @@ const Fullbrackfirst = ({brackfirst}) => {
     return (
         <div className="fullbrackfirst-container">
            
-            <img style={{height:"350px",width:"300px"}} src={img} alt="" srcset=""/>
+            <img className="rounded-circle" style={{height:"190px",width:"190px"}} src={img} alt="" srcset=""/>
             <h3 className="text-warning">{name}</h3>
             <p className="p-2">{discription}</p>
-            <button className="bg-warning text-dark mb-2 rounded">Order Now</button>
+            <button id="See-details" className=" mb-2 rounded">Order Now</button>
             
             
         </div>
